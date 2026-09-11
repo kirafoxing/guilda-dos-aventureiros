@@ -9,7 +9,9 @@
 
 body {
     font-family: 'Cinzel', serif;
+    color: #f4ecd8;
     background-color: #f4ecd8; 
+    background-image: url(assets/bg-index.png);
 }
 
 h1, h2 {
